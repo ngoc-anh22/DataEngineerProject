@@ -1,0 +1,14 @@
+2024-Jul-04-21:08:32 : ETL Job Started
+2024-Jul-04-21:08:32 : Extract phase Started
+2024-Jul-04-21:08:35 : Extract phase Ended
+2024-Jul-04-21:08:35 : Transform Job Started
+2024-Jul-04-21:09:29 : ETL Job Started
+2024-Jul-04-21:09:29 : Extract phase Started
+2024-Jul-04-21:09:31 : Extract phase Ended
+2024-Jul-04-21:09:31 : Transform Job Started
+2024-Jul-04-21:09:31 : Transform Job Ended
+2024-Jul-04-21:09:31 : Load Job Started
+2024-Jul-04-21:09:31 : SQL Connection initiated
+2024-Jul-04-21:09:31 : Load Job Ended
+2024-Jul-04-21:09:31 : Server Connection closed
+2024-Jul-04-21:09:31 : ETL Job Ended
